@@ -8,10 +8,7 @@ public class Main {
 		Sub sub = new Sub();
 		sub.doSomething();
 		
-		System.out.println("새로운 내용을 추가");
-		
-		System.out.println("또 새로운 내용을 추가");
-		
+
 	}
 
 }
